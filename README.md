@@ -2,4 +2,10 @@
 
 **Social Media Marketing in the Age of AI**
 
-This is where I’ll share social content experiments, campaign breakdowns, and the AI workflows behind them. For my latest posts, find me on Instagram at [@hi.pryor](https://www.instagram.com/hi.pryor/).
+Hi.Pryor is where I share how I think about social and how I make content with AI. This portfolio brings together the work, the strategy behind it, and my take on how AI is changing the way brands and creators show up online.
+
+- **Social media marketing** — content strategy, campaign breakdowns, and decisions about audience, format, and distribution.
+- **AI content creation** — creative experiments and a look at how I use AI from concept through production.
+- **My takes** — opinions on AI in creative work, social media trends, and what’s worth trying.
+
+Find my latest work and commentary on Instagram at [@hi.pryor](https://www.instagram.com/hi.pryor/).
